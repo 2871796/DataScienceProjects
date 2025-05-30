@@ -5,11 +5,6 @@ This project uses data from NASA's Exoplanet Archive to explore planetary and st
 
 ---
 
-## 📂 Project Structure
-
-```bash
-exoplanet-habitability/
-├── exoplanet_habitability.ipynb   # Main notebook
-├── README.md                      # Project description (this file)
-└── data/
-    └── nasa_exoplanets.csv        # Cleaned dataset (optional)
+## Dataset
+- [Star Classification Dataset on Kaggle](https://www.kaggle.com/code/chandrimad31/a-small-research-on-exoplanet-habitability/notebook)
+-[Additional information about the dataset](https://phl.upr.edu/)
