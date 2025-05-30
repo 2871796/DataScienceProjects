@@ -4,7 +4,7 @@
 ## 📊 Projects
 
 | Project | Description | Status |
-|--------|-----------|-------------|--------|
+|--------|-------------|--------|
 |  [exoplanet-habitability]()  | Logistic regression & decision trees to predict passenger survival. | 🛠 In Progress |
 |[]()  | Mathematica + Python plot of wormhole embedded surfaces. | ✅ Completed |
 | []()| CNN model to identify wildlife species from camera trap images. | 🔍 Exploring |
