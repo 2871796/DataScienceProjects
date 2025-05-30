@@ -3,7 +3,7 @@
 Classify stars using machine learning based on physical properties like temperature, luminosity, and spectral class.
 
 ## Dataset
-- [Star Classification Dataset on Kaggle](https://www.kaggle.com/datasets/astroanmol/star-classification-dataset)
+- [Star Classification Dataset on Kaggle](https://www.kaggle.com/code/waelmoham6d/stellar-classification/notebook)
 
 ## Skills Used
 - Supervised Learning (SVM, Decision Trees)
