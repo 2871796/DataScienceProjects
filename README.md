@@ -7,7 +7,7 @@
 |--------|-------------|--------|
 |  [exoplanet-habitability](https://github.com/2871796/DataScienceProjects/tree/main/projects/exoplanet-habitability)  | Logistic regression & decision trees to predict passenger survival. | 🛠 In Progress |
 |[galaxy-morphology](https://github.com/2871796/DataScienceProjects/tree/main/projects/galaxy-morphology)  | Mathematica + Python plot of wormhole embedded surfaces. | ✅ Completed |
-| []()| CNN model to identify wildlife species from camera trap images. | 🔍 Exploring |
+| [gravitational-waves](https://github.com/2871796/DataScienceProjects/tree/main/projects/gravitational-waves)| CNN model to identify wildlife species from camera trap images. | 🔍 Exploring |
 | []() | Logistic regression & decision trees to predict passenger survival. | 🛠 In Progress |
 | []() | Mathematica + Python plot of wormhole embedded surfaces. | ✅ Completed |
 | []() | CNN model to identify wildlife species from camera trap images. | 🔍 Exploring |
