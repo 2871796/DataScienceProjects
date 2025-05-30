@@ -53,16 +53,4 @@ Libraries used:
 - `scikit-learn` or `xgboost` for ML
 - `seaborn`, `plotly` for visuals
 
----
-
-## 📁 Folder Structure
-
-```bash
-astrophysical-masers/
-├── maser_analysis.ipynb         # Main notebook
-├── data/                        # Raw and processed data
-│   └── atnf_maser_catalog.csv
-├── images/                      # Visuals of spectra or sky maps
-├── README.md                    # This file
-└── references.md                # Optional: scientific background notes
 
