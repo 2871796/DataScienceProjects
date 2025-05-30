@@ -3,23 +3,23 @@
 
 ## 📊 Projects
 
-| Project | Special project | Description | Status |
+| Project | Description | Status |
 |--------|-----------|-------------|--------|
-|   special_projects/astrophysical masers | Logistic regression & decision trees to predict passenger survival. | 🛠 In Progress |
-| [Wormhole Visualization](./projects/wormhole-visualization/) | Mathematica + Python plot of wormhole embedded surfaces. | ✅ Completed |
-| [Wildlife Image Classifier](./projects/wildlife-classifier/) | CNN model to identify wildlife species from camera trap images. | 🔍 Exploring |
-| [Titanic Survival Prediction](./projects/titanic-survival/) | Logistic regression & decision trees to predict passenger survival. | 🛠 In Progress |
-| [Wormhole Visualization](./projects/wormhole-visualization/) | Mathematica + Python plot of wormhole embedded surfaces. | ✅ Completed |
-| [Wildlife Image Classifier](./projects/wildlife-classifier/) | CNN model to identify wildlife species from camera trap images. | 🔍 Exploring |
+|  [exoplanet-habitability]()  | Logistic regression & decision trees to predict passenger survival. | 🛠 In Progress |
+|[]()  | Mathematica + Python plot of wormhole embedded surfaces. | ✅ Completed |
+| []()| CNN model to identify wildlife species from camera trap images. | 🔍 Exploring |
+| []() | Logistic regression & decision trees to predict passenger survival. | 🛠 In Progress |
+| []() | Mathematica + Python plot of wormhole embedded surfaces. | ✅ Completed |
+| []() | CNN model to identify wildlife species from camera trap images. | 🔍 Exploring |
 
  Special project | Description | Status |
 |--------|-------------|--------|
 | [astrophysical masers](https://github.com/2871796/DataScienceProjects/tree/main/special_projects/astrophysical%20masers) | Logistic regression & decision trees to predict passenger survival. | 🛠 In Progress |
-| [Wormhole Visualization](./projects/wormhole-visualization/) | Mathematica + Python plot of wormhole embedded surfaces. | ✅ Completed |
-| [Wildlife Image Classifier](./projects/wildlife-classifier/) | CNN model to identify wildlife species from camera trap images. | 🔍 Exploring |
-| [Titanic Survival Prediction](./projects/titanic-survival/) | Logistic regression & decision trees to predict passenger survival. | 🛠 In Progress |
-| [Wormhole Visualization](./projects/wormhole-visualization/) | Mathematica + Python plot of wormhole embedded surfaces. | ✅ Completed |
-| [Wildlife Image Classifier](./projects/wildlife-classifier/) | CNN model to identify wildlife species from camera trap images. | 🔍 Exploring |
+| []()  | Mathematica + Python plot of wormhole embedded surfaces. | ✅ Completed |
+| []() | CNN model to identify wildlife species from camera trap images. | 🔍 Exploring |
+| []() | Logistic regression & decision trees to predict passenger survival. | 🛠 In Progress |
+| []() | Mathematica + Python plot of wormhole embedded surfaces. | ✅ Completed |
+| []() | CNN model to identify wildlife species from camera trap images. | 🔍 Exploring |
 ---
 
 ## 🛠 Tools & Technologies
