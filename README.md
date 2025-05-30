@@ -5,21 +5,21 @@
 
 | Project | Description | Status |
 |--------|-------------|--------|
-|  [exoplanet-habitability](https://github.com/2871796/DataScienceProjects/tree/main/projects/exoplanet-habitability)  | Logistic regression & decision trees to predict passenger survival. | 🛠 In Progress |
-|[galaxy-morphology](https://github.com/2871796/DataScienceProjects/tree/main/projects/galaxy-morphology)  | Mathematica + Python plot of wormhole embedded surfaces. | ✅ Completed |
-| [gravitational-waves](https://github.com/2871796/DataScienceProjects/tree/main/projects/gravitational-waves)| CNN model to identify wildlife species from camera trap images. | 🔍 Exploring |
-| []() | Logistic regression & decision trees to predict passenger survival. | 🛠 In Progress |
-| []() | Mathematica + Python plot of wormhole embedded surfaces. | ✅ Completed |
+|  [exoplanet-habitability](https://github.com/2871796/DataScienceProjects/tree/main/projects/exoplanet-habitability)  | | 🛠 In Progress |
+|[galaxy-morphology](https://github.com/2871796/DataScienceProjects/tree/main/projects/galaxy-morphology)  |  | ✅ Completed |
+| [gravitational-waves](https://github.com/2871796/DataScienceProjects/tree/main/projects/gravitational-waves)|  | 🔍 Exploring |
+| [heat-equation-simulation](https://github.com/2871796/DataScienceProjects/tree/main/projects/heat-equation-simulation) |  |  |
+| [Stellar Classification using ML](https://github.com/2871796/DataScienceProjects/tree/main/projects/%F0%9F%94%AD%20Stellar%20Classification%20using%20ML) | | |
 | []() | CNN model to identify wildlife species from camera trap images. | 🔍 Exploring |
 
  Special project | Description | Status |
 |--------|-------------|--------|
 | [astrophysical masers](https://github.com/2871796/DataScienceProjects/tree/main/special_projects/astrophysical%20masers) | Logistic regression & decision trees to predict passenger survival. | 🛠 In Progress |
-| []()  | Mathematica + Python plot of wormhole embedded surfaces. | ✅ Completed |
-| []() | CNN model to identify wildlife species from camera trap images. | 🔍 Exploring |
-| []() | Logistic regression & decision trees to predict passenger survival. | 🛠 In Progress |
-| []() | Mathematica + Python plot of wormhole embedded surfaces. | ✅ Completed |
-| []() | CNN model to identify wildlife species from camera trap images. | 🔍 Exploring |
+| []()  |  |  |
+| []() |  |  |
+| []() ||  |
+| []() | . |  |
+| []() |  |  |
 ---
 
 ## 🛠 Tools & Technologies
