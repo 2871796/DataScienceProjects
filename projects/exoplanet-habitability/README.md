@@ -7,4 +7,4 @@ This project uses data from NASA's Exoplanet Archive to explore planetary and st
 
 ## Dataset
 - [Star Classification Dataset on Kaggle](https://www.kaggle.com/code/chandrimad31/a-small-research-on-exoplanet-habitability/notebook)
--[Additional information about the dataset](https://phl.upr.edu/)
+- [Additional information about the dataset](https://phl.upr.edu/)
