@@ -14,7 +14,7 @@
 
  Special project | Description | Status |
 |--------|-------------|--------|
-| special_projects/astrophysical masers | Logistic regression & decision trees to predict passenger survival. | 🛠 In Progress |
+| astrophysical masers(.special_projects/astrophysical masers) | Logistic regression & decision trees to predict passenger survival. | 🛠 In Progress |
 | [Wormhole Visualization](./projects/wormhole-visualization/) | Mathematica + Python plot of wormhole embedded surfaces. | ✅ Completed |
 | [Wildlife Image Classifier](./projects/wildlife-classifier/) | CNN model to identify wildlife species from camera trap images. | 🔍 Exploring |
 | [Titanic Survival Prediction](./projects/titanic-survival/) | Logistic regression & decision trees to predict passenger survival. | 🛠 In Progress |
